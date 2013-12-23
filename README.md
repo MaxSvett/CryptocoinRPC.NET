@@ -5,7 +5,7 @@ JSON RPC client for cryptocurrencies derived from Bitcoin.
 
 __Example__
 ```C#
-unsafe class Program
+class Program
 {
 	static void Main(string[] args)
 	{
